@@ -1,0 +1,10 @@
+delete select
+
+i
+:wq
+
+
+
+
+
+
